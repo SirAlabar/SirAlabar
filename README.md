@@ -1,50 +1,91 @@
-<h2>Hey 👋, I'm Alabar</h2>
-<!--<p>I'm currently a clerk at <strong>Casa Guedes</a></strong> and formerly a <strong>waiter</strong>.  Based in Porto i am working on some side projects, learning a couple new things, and trying to conquer the world as Kratos against his enemyes</p>
-<p>-->
-<!--  <a href="https://markos.click">
-    <img src="https://img.shields.io/badge/MarkosComK-0022B5?style=for-the-badge&logoColor=white" alt="Website Badge">
-  </a>
-  <a href="https://www.linkedin.com/in/markos-soares/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-  </a> 
-  <a href="https://instagram.com/markoscomk">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
-  </a> verificar tab blank-->
-<!--  <a href="https://instagram.com/markoscomk"> -->
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Instagram Badge">
-  </a> 
-</p>
-<p>💧 Remember to drink water 💧</p>
-<img align="right" width=400 src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" />
-<h2>⚡️ A Few Quick Facts</h2>
-<ul>
-  <!--<li>🔭 I’m currently working on <a href="https://github.com/MarkosComK/dictionary-web-app">Dictionary web app</a>.</li>-->
-  <li>🧐 Learning about <strong>Linux</strong>, <strong>C</strong>, and a bit of <strong>Shell</strong>.</li>
-  <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Alabar666">Github</a>.</li>
-  <li>💬 Ping me about <strong>C, Shell, and any tech stuff</strong>.</li>
-  <li>📙 Check out my <a href="#">resume (coming)</a>.</li>
-</ul>
+## Hey 👋, I'm Alabar.  
+  
 
-<br>
-<h2>🚀 Some things about me</h2>
-<br>
-<br>
-<!--
-```javascript
-const Markos = {
-    code: ["C, Javascript", "Typescript", "Python"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography", "art"],
-    technologies: {
-        frontEnd: {
-            technologies: ["C", "Shell", "HTML", "CSS", "SASS", "JS", "React", "Typescript", "Redux"],
-        },
-        misc: ["styled-components", "tailwind", "GIT"]
-    },
-    architecture: ["Progressive web applications", "Single page applications"],
-    currentFocus: "Piscine 42School",
-    funFact: "I love drawn people and play instruments"
-};
-```
-<br>
-<br>
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=markoscomk.markoscomk" alt="visitors"></p> -->
+<a href="https://github.com/Alabar666" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/hugo-leonardo-40b941106" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/allabar" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+  
+
+
+
+### Glad to see you here!  
+  
+  
+
+<br/>  
+
+
+## Rapidfire  
+<table><tr><td valign="top" width="50%">
+
+- 🔭 I’m currently working on   
+  
+
+- 🧐 Learning about <strong>Linux</strong>, <strong>C</strong>, and a bit of <strong>Shell</strong>.  
+  
+
+- 👨‍💻 Most of my projects are available on <a href="https://github.com/Alabar666">Github</a>.  
+  
+
+- ⚡ Fun fact: I keep night shift swithed on at all times   
+
+
+</td><td valign="top" width="50%">
+
+<div align="center">
+<img src="https://giphy.com/embed/zOvBKUUEERdNm" align="center" style="width: 100%" />
+</div>  
+
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Languages and Tools  
+<div align="center">  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="25" /></a>  
+<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="25" /></a>  
+</div>  
+
+<br/>  
+
+
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Alabar666&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alabar666&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
+
+  
+
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=Alabar666&&style=flat-square)  
+  
+
+<br/>  
+
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
