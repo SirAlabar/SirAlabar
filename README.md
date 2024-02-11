@@ -1,6 +1,8 @@
-## Hey 👋, I'm Alabar.  
-  
-
+## Transitioning to Code
+Studying At 42 School
+<div align="left" dir="auto">
+    	<a href="https://profile.intra.42.fr/users/hluiz-ma" rel="nofollow"><img alt="42" src="https://camo.githubusercontent.com/cefb1e10a17fd89e79dfb502f17b0713c36fc41ca0e5295791fe78422b15cd83/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f72746f2d3130303030303f7374796c653d666c61742d737175617265266c6f676f3d3432266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d30303030303026636f6c6f723d303030303030" height="35" data-canonical-src="https://img.shields.io/badge/Porto-100000?style=flat-square&amp;logo=42&amp;logoColor=white&amp;labelColor=000000&amp;color=000000" style="max-width: 100%;"></a>
+</div>
 <a href="https://github.com/Alabar666" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -10,34 +12,27 @@
 <a href="https://instagram.com/allabar" target="_blank">
 <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-  
-
+<a href="hugollmarta@hotmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Microsoft%20Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white style="margin-bottom: 5px;" />
+</a> 
 
 
 ### Glad to see you here!  
-  
-  
+
+<img align="center" width=400 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDBidG9ucTRmMXl5dXBlMGxndGRoNzZsYjNmZzE5NWJ2ZjBtMmxuYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" />
+
+
 
 <br/>  
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
 
 - 🧐 Learning about <strong>Linux</strong>, <strong>C</strong>, and a bit of <strong>Shell</strong>.  
   
 
 - 👨‍💻 Most of my projects are available on <a href="https://github.com/Alabar666">Github</a>.  
   
-
-</td><td valign="top" width="50%">
-
-<div align="right">
-<img src="https://giphy.com/embed/zOvBKUUEERdNm" align="right" style="width=300" />
-</div>  
-
-
-</td></tr></table>  
 
 <br/>  
 
@@ -77,5 +72,5 @@
   
 
 <br/>  
-![snake gif](https://github.com/Alabar666/Alabar666/blob/output/github-contribution-grid-snake.gif)
+![snake animation](https://github.com/<Alabar666>/<Alabar666>/blob/output/github-contribution-grid-snake2.svg)
 <br/>
