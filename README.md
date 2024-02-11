@@ -24,17 +24,11 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on   
-  
-
 - 🧐 Learning about <strong>Linux</strong>, <strong>C</strong>, and a bit of <strong>Shell</strong>.  
   
 
 - 👨‍💻 Most of my projects are available on <a href="https://github.com/Alabar666">Github</a>.  
   
-
-- ⚡ Fun fact: I keep night shift swithed on at all times   
-
 
 </td><td valign="top" width="50%">
 
@@ -83,8 +77,5 @@
   
 
 <br/>  
-
-
-<br />
-
-![snake gif](https://github.com/Alabar666/Alabar666/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Alabar666/Alabar666/blob/output/github-contribution-grid-snake.gif)
+<br/>
