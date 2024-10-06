@@ -9,10 +9,12 @@
 <div align="center" dir="auto">
 <a href="https://profile.intra.42.fr/users/hluiz-ma" rel="nofollow"><img alt="42" src="https://camo.githubusercontent.com/cefb1e10a17fd89e79dfb502f17b0713c36fc41ca0e5295791fe78422b15cd83/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f72746f2d3130303030303f7374796c653d666c61742d737175617265266c6f676f3d3432266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d30303030303026636f6c6f723d303030303030" height="35" data-canonical-src="https://img.shields.io/badge/Porto-100000?style=flat-square&amp;logo=42&amp;logoColor=white&amp;labelColor=000000&amp;color=000000" style="max-width: 100%;"></a>
 </div>
+
+<!--
 <div align="center" dir="auto">
 <img align="center" width=400 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDBidG9ucTRmMXl5dXBlMGxndGRoNzZsYjNmZzE5NWJ2ZjBtMmxuYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" />
 </div>
-
+-->
 
 ## My Skills
 
