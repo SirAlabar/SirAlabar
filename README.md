@@ -1,5 +1,5 @@
 <div align="center"> 
-<img align="center" style="margin-bottom:100px" width=80% src="https://github.com/Alabar666/Alabar666/blob/main/hugogit.png"/>
+<img align="center" style="margin-bottom:100px" width=80% src="https://github.com/user-attachments/assets/f93e233f-1c22-455f-88d0-55cf1240b4f3"/>
 &nbsp;&nbsp;&nbsp;
 </div>
 &nbsp;&nbsp;&nbsp;
