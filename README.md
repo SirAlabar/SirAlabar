@@ -7,8 +7,11 @@
 
 <p align="center">As a career changer diving into the world of game development, I am excited to explore and create innovative solutions using technology. Currently focusing on mastering C and developing small games in C#, I am <strong>passionate about discovering new technologies</strong> and leveraging them to craft high-quality projects. I am <strong>a student at 42 School</strong>, where I am honing my skills and expanding my horizons in this dynamic field.</strong></p> 
 
+
 <div align="center" dir="auto">
-<a href="https://profile.intra.42.fr/users/hluiz-ma" rel="nofollow"><img alt="42" src="https://camo.githubusercontent.com/cefb1e10a17fd89e79dfb502f17b0713c36fc41ca0e5295791fe78422b15cd83/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f72746f2d3130303030303f7374796c653d666c61742d737175617265266c6f676f3d3432266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d30303030303026636f6c6f723d303030303030" height="35" data-canonical-src="https://img.shields.io/badge/Porto-100000?style=flat-square&amp;logo=42&amp;logoColor=white&amp;labelColor=000000&amp;color=000000" style="max-width: 100%;"></a>
+  <a href="https://profile.intra.42.fr/users/hluiz-ma">
+    <img alt="42 Porto Badge" src="https://img.shields.io/badge/Porto-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000" height="35">
+  </a>
 </div>
 
 <!--
@@ -61,19 +64,19 @@
 
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Alabar666&theme=chartreuse-dark&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Alabar666&show_icons=true&theme=chartreuse-dark&layout=compact" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=SirAlabar&theme=chartreuse-dark&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=SirAlabar&show_icons=true&theme=chartreuse-dark&layout=compact" />
 </div>
 
 
 &nbsp;
-![Profile views counter](https://komarev.com/ghpvc/?username=Alabar666&&style=flat-square)
+![Profile views counter](https://komarev.com/ghpvc/?username=SirAlabar&&style=flat-square)
 
 
 ## Contacts:
 
 </div>
-<a href="https://github.com/Alabar666" target="_blank">
+<a href="https://github.com/SirAlabar" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/hugo-leonardo-40b941106" target="_blank">
