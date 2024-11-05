@@ -14,6 +14,12 @@
   </a>
 </div>
 
+<br>
+<div align="center">
+<!-- Gaming-themed separator -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+<br>
 <!--
 <div align="center" dir="auto">
 <img align="center" width=400 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDBidG9ucTRmMXl5dXBlMGxndGRoNzZsYjNmZzE5NWJ2ZjBtMmxuYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" />
