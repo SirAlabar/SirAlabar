@@ -87,6 +87,10 @@
 
 <h1 align="center">🗿 42 Curriculum Path</h1>
 
+<div align="center">
+  <code>Progress: <span style="color:green">🟩🟩🟩🟩🟩🟩🟩</span>⬜⬜⬜ 70%</code>
+  <p><i>Progress through the 42 Common Core: 70%</i></p>
+</div>
 
 <br>
 
