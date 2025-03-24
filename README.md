@@ -120,6 +120,7 @@
 | [🔄 push_swap](https://github.com/SirAlabar/push_swap) | Developed an algorithm to sort integers using two stacks with a minimal number of operations | `C` `Algorithm Design` `Data Structures` `Complexity Optimization` | ✅ 125/100 | Visualization of the sorting algorithm with a real-time graphical representation |
 | [🔧 pipex](https://github.com/SirAlabar/pipex) | Recreated the shell pipe functionality with focus on process creation and communication | `C` `Process Creation` `File Redirection` `Inter-Process Communication` | ✅ 125/100 | Support for multiple pipes and here_doc functionality like in bash |
 | [🎮 so_long](https://github.com/SirAlabar/so_long) | Created a simple 2D game with collectibles, enemies, and map parsing | `C` `Graphics` `Game Development` `Map Parsing` | ✅ 125/100 | Added animations, enemy movement patterns, and multiple levels |
+| [🌐 NetPractice](https://github.com/SirAlabar/netpractice) | Solved IP addressing and network configuration challenges | `Networking` `IP Addressing` `Subnetting` `Routing` | ✅ 100/100 | No bonus for this project |
 
 ## 👥 Team Projects
 
