@@ -126,7 +126,7 @@
 
 | Project | Description | Skills | Score | Bonus |
 |:-------:|:------------|:-------|:-----:|:------|
-| [💬 minishell](https://github.com/SirAlabar/minishell) | Built a simplified bash shell with command parsing and execution | `C` `Parsing` `Process Management` `Signal Handling` | ✅ 125/100 | Implemented advanced features like command history, auto-completion, and wildcard expansion |
+| [💬 minishell](https://github.com/SirAlabar/42-Minishell) | Built a simplified bash shell with command parsing and execution | `C` `Parsing` `Process Management` `Signal Handling` | ✅ 125/100 | Implemented advanced features like command history, auto-completion, and wildcard expansion |
 | [🎮 cub3d](https://github.com/SirAlabar/cub3d) | Developed a raycasting engine to create a 3D-like environment | `C` `Graphics` `Mathematics` `Game Development` | ✅ 125/100 | Added textures, sprites, collision detection, and a mini-map feature |
 | [💻 ft_irc](https://github.com/SirAlabar/ft_irc) | Created an IRC server compliant with RFC standards | `C++` `Network Programming` `Protocol Implementation` | ⏳ In Progress | Planning to implement file transfer protocol and bot functionality for server management |
 | [🌐 ft_transcendence](https://github.com/SirAlabar/ft_transcendence) | Full-stack web application with real-time multiplayer Pong game | `TypeScript` `NestJS` `PostgreSQL` `WebSockets` | ⏳ In Progress | Planning tournament system, customizable game physics, and spectator mode |
