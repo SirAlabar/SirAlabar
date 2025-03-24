@@ -85,6 +85,66 @@
 </div>
 
 
+<h1 align="center">🗿 42 Curriculum Path</h1>
+
+
+<br>
+
+## 🧱 Foundation Projects
+
+<div>
+  <img src="https://img.shields.io/badge/Language-C-blue" alt="Language">
+  <img src="https://img.shields.io/badge/Status-Completed-success" alt="Status">
+</div>
+
+| Project | Description | Skills | Score | Bonus |
+|:-------:|:------------|:-------|:-----:|:------|
+| [📚 Libft](https://github.com/SirAlabar/libft) | Created a personal C library implementing standard functions | `C` `Library Creation` `Memory Management` `Linked Lists` | ✅ 125/100 | Implementation of additional functions and a linked list structure with operations |
+| [🖥️ Born2beRoot](https://github.com/SirAlabar/born2beroot) | Set up a secure virtual machine according to specific rules | `System Administration` `Virtualization` `Security Protocols` | ✅ 125/100 | Set up WordPress with Lighttpd, MariaDB, and PHP with a functional website |
+| [🖨️ ft_printf](https://github.com/SirAlabar/ft_printf) | Recoded the printf function with support for various conversions | `C` `Variadic Functions` `String Formatting` | ✅ 125/100 | Implementation of additional format specifiers and flags like %n, %f, and %g |
+| [📜 get_next_line](https://github.com/SirAlabar/get_next_line) | Function that reads a line from a file descriptor, even multiple | `C` `File I/O` `Static Variables` `Memory Management` | ✅ 125/100 | Support for multiple file descriptors simultaneously without data loss |
+
+## 🔄 Algorithmic Projects
+
+<div>
+  <img src="https://img.shields.io/badge/Language-C-blue" alt="Language">
+  <img src="https://img.shields.io/badge/Status-Completed-success" alt="Status">
+</div>
+
+| Project | Description | Skills | Score | Bonus |
+|:-------:|:------------|:-------|:-----:|:------|
+| [🔄 push_swap](https://github.com/SirAlabar/push_swap) | Developed an algorithm to sort integers using two stacks with a minimal number of operations | `C` `Algorithm Design` `Data Structures` `Complexity Optimization` | ✅ 125/100 | Visualization of the sorting algorithm with a real-time graphical representation |
+| [🔧 pipex](https://github.com/SirAlabar/pipex) | Recreated the shell pipe functionality with focus on process creation and communication | `C` `Process Creation` `File Redirection` `Inter-Process Communication` | ✅ 125/100 | Support for multiple pipes and here_doc functionality like in bash |
+| [🎮 so_long](https://github.com/SirAlabar/so_long) | Created a simple 2D game with collectibles, enemies, and map parsing | `C` `Graphics` `Game Development` `Map Parsing` | ✅ 125/100 | Added animations, enemy movement patterns, and multiple levels |
+
+## 👥 Team Projects
+
+<div>
+  <img src="https://img.shields.io/badge/Language-C/C++-blue" alt="Language">
+  <img src="https://img.shields.io/badge/Status-Completed/In_Progress-success" alt="Status">
+</div>
+
+| Project | Description | Skills | Score | Bonus |
+|:-------:|:------------|:-------|:-----:|:------|
+| [💬 minishell](https://github.com/SirAlabar/minishell) | Built a simplified bash shell with command parsing and execution | `C` `Parsing` `Process Management` `Signal Handling` | ✅ 125/100 | Implemented advanced features like command history, auto-completion, and wildcard expansion |
+| [🎮 cub3d](https://github.com/SirAlabar/cub3d) | Developed a raycasting engine to create a 3D-like environment | `C` `Graphics` `Mathematics` `Game Development` | ✅ 125/100 | Added textures, sprites, collision detection, and a mini-map feature |
+| [💻 ft_irc](https://github.com/SirAlabar/ft_irc) | Created an IRC server compliant with RFC standards | `C++` `Network Programming` `Protocol Implementation` | ⏳ In Progress | Planning to implement file transfer protocol and bot functionality for server management |
+| [🌐 ft_transcendence](https://github.com/SirAlabar/ft_transcendence) | Full-stack web application with real-time multiplayer Pong game | `TypeScript` `NestJS` `PostgreSQL` `WebSockets` | ⏳ In Progress | Planning tournament system, customizable game physics, and spectator mode |
+
+## 🧠 Advanced Concepts
+
+<div>
+  <img src="https://img.shields.io/badge/Language-C++-blue" alt="Language">
+  <img src="https://img.shields.io/badge/Status-Completed/In_Progress-success" alt="Status">
+</div>
+
+| Project | Description | Skills | Score | Bonus |
+|:-------:|:------------|:-------|:-----:|:------|
+| [🍽️ Philosophers](https://github.com/SirAlabar/philosophers) | Solved the dining philosophers problem using threads and mutexes | `C` `Multi-threading` `Resource Sharing` `Deadlock Prevention` | ✅ 125/100 | Implemented a visualization of the philosophers' states and statistics logging |
+| [🐳 Inception](https://github.com/SirAlabar/inception) | Set up a Docker infrastructure with multiple containerized services | `Docker` `Docker-Compose` `Network Configuration` `System Administration` | ⏳ In Progress | Planning to add additional services like Redis cache and automated backup system |
+| [🧩 CPP Modules](https://github.com/SirAlabar/cpp_modules) | Series of projects covering Object-Oriented Programming concepts in C++ | `C++` `OOP` `Templates` `STL` `Polymorphism` | ⏳ In Progress | Working on implementing a small game engine demonstrating advanced OOP principles |
+
+
 &nbsp;
 ![Profile views counter](https://komarev.com/ghpvc/?username=SirAlabar&&style=flat-square)
 
