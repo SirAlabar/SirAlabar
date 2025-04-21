@@ -147,7 +147,7 @@
 |:-------:|:------------|:-------|:-----:|:------|
 | [🍽️ Philosophers](https://github.com/SirAlabar/philosophers) | Solved the dining philosophers problem using threads and mutexes | `C` `Multi-threading` `Resource Sharing` `Deadlock Prevention` | ✅ 125/100 | Implemented a visualization of the philosophers' states and statistics logging |
 | [🐳 Inception](https://github.com/SirAlabar/inception) | Set up a Docker infrastructure with multiple containerized services | `Docker` `Docker-Compose` `Network Configuration` `System Administration` | ⏳ In Progress | Planning to add additional services like Redis cache and automated backup system |
-| [🧩 CPP Modules](https://github.com/SirAlabar/cpp_modules) | Series of projects covering Object-Oriented Programming concepts in C++ | `C++` `OOP` `Templates` `STL` `Polymorphism` | ✅ 100/100 | Working on implementing a small game engine demonstrating advanced OOP principles |
+| [🧩 CPP Modules](https://github.com/SirAlabar/42-CPP) | Series of projects covering Object-Oriented Programming concepts in C++ | `C++` `OOP` `Templates` `STL` `Polymorphism` | ✅ 100/100 | Working on implementing a small game engine demonstrating advanced OOP principles |
 
 
 &nbsp;
