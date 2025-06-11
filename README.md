@@ -5,8 +5,7 @@
 </div>
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">As a career changer diving into the world of game development, I am excited to explore and create innovative solutions using technology. Currently focusing on mastering C and developing small games in C#, I am <strong>passionate about discovering new technologies</strong> and leveraging them to craft high-quality projects. I am <strong>a student at 42 School</strong>, where I am honing my skills and expanding my horizons in this dynamic field.</strong></p> 
-
+<p align="center">As a career changer who started with <strong>C fundamentals</strong> and progressed through the complete <strong>42 School curriculum</strong>, I've evolved from <strong>low-level programming and system administration</strong> to <strong>full-stack development with cutting-edge technologies</strong>. My journey includes building <strong>custom C libraries, shell implementations, 3D raycasting engines, and network servers</strong>. Currently leading <strong>ft_transcendence</strong> - a sophisticated gaming platform featuring <strong>TypeScript microservices, Babylon.js 3D graphics, real-time multiplayer with WebSockets, and distributed architecture</strong>. I am <strong>passionate about exploring emerging technologies</strong> and applying rigorous engineering principles to create scalable, high-performance solutions that deliver exceptional user experiences.</p>
 
 <div align="center" dir="auto">
   <a href="https://profile.intra.42.fr/users/hluiz-ma">
@@ -88,8 +87,8 @@
 <h1 align="center">🗿 42 Curriculum Path</h1>
 
 <div align="center">
-  <code>Progress: <span style="color:green">🟩🟩🟩🟩🟩🟩🟩</span>⬜⬜⬜ 70%</code>
-  <p><i>Progress through the 42 Common Core: 70%</i></p>
+  <code>Progress: <span style="color:green">🟩🟩🟩🟩🟩🟩🟩🟩🟩</span>⬜ 90%</code>
+  <p><i>Progress through the 42 Common Core: 90%</i></p>
 </div>
 
 <br>
@@ -133,7 +132,7 @@
 |:-------:|:------------|:-------|:-----:|:------|
 | [💬 minishell](https://github.com/SirAlabar/42-Minishell) | Built a simplified bash shell with command parsing and execution | `C` `Parsing` `Process Management` `Signal Handling` | ✅ 125/100 | Implemented advanced features like command history, auto-completion, and wildcard expansion |
 | [🎮 cub3d](https://github.com/SirAlabar/cub3d) | Developed a raycasting engine to create a 3D-like environment | `C` `Graphics` `Mathematics` `Game Development` | ✅ 125/100 | Added textures, sprites, collision detection, and a mini-map feature |
-| [💻 ft_irc](https://github.com/SirAlabar/ft_irc) | Created an IRC server compliant with RFC standards | `C++` `Network Programming` `Protocol Implementation` | ⏳ In Progress | Planning to implement file transfer protocol and bot functionality for server management |
+| [💻 ft_irc](https://github.com/SirAlabar/ft_irc) | Created an IRC server compliant with RFC standards | `C++` `Network Programming` `Protocol Implementation` | ✅ 125/100 | Planning to implement file transfer protocol and bot functionality for server management |
 | [🌐 ft_transcendence](https://github.com/SirAlabar/ft_transcendence) | Full-stack web application with real-time multiplayer Pong game | `TypeScript` `NestJS` `PostgreSQL` `WebSockets` | ⏳ In Progress | Planning tournament system, customizable game physics, and spectator mode |
 
 ## 🧠 Advanced Concepts
@@ -146,7 +145,7 @@
 | Project | Description | Skills | Score | Bonus |
 |:-------:|:------------|:-------|:-----:|:------|
 | [🍽️ Philosophers](https://github.com/SirAlabar/philosophers) | Solved the dining philosophers problem using threads and mutexes | `C` `Multi-threading` `Resource Sharing` `Deadlock Prevention` | ✅ 125/100 | Implemented a visualization of the philosophers' states and statistics logging |
-| [🐳 Inception](https://github.com/SirAlabar/inception) | Set up a Docker infrastructure with multiple containerized services | `Docker` `Docker-Compose` `Network Configuration` `System Administration` | ⏳ In Progress | Planning to add additional services like Redis cache and automated backup system |
+| [🐳 Inception](https://github.com/SirAlabar/inception) | Set up a Docker infrastructure with multiple containerized services | `Docker` `Docker-Compose` `Network Configuration` `System Administration` | ✅ 125/100 | Planning to add additional services like Redis cache and automated backup system |
 | [🧩 CPP Modules](https://github.com/SirAlabar/42-CPP) | Series of projects covering Object-Oriented Programming concepts in C++ | `C++` `OOP` `Templates` `STL` `Polymorphism` | ✅ 100/100 | Working on implementing a small game engine demonstrating advanced OOP principles |
 
 
