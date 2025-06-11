@@ -132,8 +132,8 @@
 |:-------:|:------------|:-------|:-----:|:------|
 | [💬 minishell](https://github.com/SirAlabar/42-Minishell) | Built a simplified bash shell with command parsing and execution | `C` `Parsing` `Process Management` `Signal Handling` | ✅ 125/100 | Implemented advanced features like command history, auto-completion, and wildcard expansion |
 | [🎮 cub3d](https://github.com/SirAlabar/cub3d) | Developed a raycasting engine to create a 3D-like environment | `C` `Graphics` `Mathematics` `Game Development` | ✅ 125/100 | Added textures, sprites, collision detection, and a mini-map feature |
-| [💻 ft_irc](https://github.com/SirAlabar/ft_irc) | Created an IRC server compliant with RFC standards | `C++` `Network Programming` `Protocol Implementation` | ✅ 125/100 | Planning to implement file transfer protocol and bot functionality for server management |
-| [🌐 ft_transcendence](https://github.com/SirAlabar/ft_transcendence) | Full-stack web application with real-time multiplayer Pong game | `TypeScript` `NestJS` `PostgreSQL` `WebSockets` | ⏳ In Progress | Planning tournament system, customizable game physics, and spectator mode |
+| [💻 ft_irc](https://github.com/SirAlabar/Internet_Relay_Chat) | Created an IRC server compliant with RFC standards | `C++` `Network Programming` `Protocol Implementation` | ✅ 125/100 | Planning to implement file transfer protocol and bot functionality for server management |
+| [🌐 ft_transcendence](https://github.com/SirAlabar/StarCendence) | Advanced gaming platform with 3D Pong and Star Wars Racer featuring real-time multiplayer, microservices architecture, and comprehensive user management | TypeScript Fastify Babylon.js SQLite Redis WebSockets Docker | ⏳ In Progress | Implementing JWT + 2FA, Google OAuth, AI opponents, live chat, tournament system, and Prometheus monitoring |
 
 ## 🧠 Advanced Concepts
 
@@ -145,7 +145,7 @@
 | Project | Description | Skills | Score | Bonus |
 |:-------:|:------------|:-------|:-----:|:------|
 | [🍽️ Philosophers](https://github.com/SirAlabar/philosophers) | Solved the dining philosophers problem using threads and mutexes | `C` `Multi-threading` `Resource Sharing` `Deadlock Prevention` | ✅ 125/100 | Implemented a visualization of the philosophers' states and statistics logging |
-| [🐳 Inception](https://github.com/SirAlabar/inception) | Set up a Docker infrastructure with multiple containerized services | `Docker` `Docker-Compose` `Network Configuration` `System Administration` | ✅ 125/100 | Planning to add additional services like Redis cache and automated backup system |
+| [🐳 Inception](https://github.com/SirAlabar/Inception) | Set up a Docker infrastructure with multiple containerized services | `Docker` `Docker-Compose` `Network Configuration` `System Administration` | ✅ 125/100 | Planning to add additional services like Redis cache and automated backup system |
 | [🧩 CPP Modules](https://github.com/SirAlabar/42-CPP) | Series of projects covering Object-Oriented Programming concepts in C++ | `C++` `OOP` `Templates` `STL` `Polymorphism` | ✅ 100/100 | Working on implementing a small game engine demonstrating advanced OOP principles |
 
 
