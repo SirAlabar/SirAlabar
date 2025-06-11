@@ -139,7 +139,7 @@
 
 <div>
   <img src="https://img.shields.io/badge/Language-C++-blue" alt="Language">
-  <img src="https://img.shields.io/badge/Status-Completed/In_Progress-success" alt="Status">
+  <img src="https://img.shields.io/badge/Status-Completed-success" alt="Status">
 </div>
 
 | Project | Description | Skills | Score | Bonus |
