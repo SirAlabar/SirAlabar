@@ -79,7 +79,9 @@
 
 
 <div  align="center" style="margin-bottom:100px">
+  <!--
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=SirAlabar&theme=chartreuse-dark&mode=weekly" />
+  -->
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=SirAlabar&show_icons=true&theme=chartreuse-dark&layout=compact" />
 </div>
 
@@ -87,8 +89,8 @@
 <h1 align="center">🗿 42 Curriculum Path</h1>
 
 <div align="center">
-  <code>Progress: <span style="color:green">🟩🟩🟩🟩🟩🟩🟩🟩🟩</span>⬜ 90%</code>
-  <p><i>Progress through the 42 Common Core: 90%</i></p>
+  <code>Progress: <span style="color:green">🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩</span> 100%</code>
+  <p><i>Progress through the 42 Common Core: 100%</i></p>
 </div>
 
 <br>
